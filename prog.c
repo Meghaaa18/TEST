@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-	printf("source code management");
+	printf("online store project");
 	return 0;
 }
